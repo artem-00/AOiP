@@ -1,0 +1,10 @@
+void time_sort_Shell(int* array, int size_array, int start_Shell, int end_Shell);
+void time_sort_bouble(int* array, int size_array, int start_bouble, int end_bouble);
+void print_array(int* array, int size_array);
+void final_output(int* array, int size_array, int choice);
+void array_input_random(int* array, int size_array);
+void array_input(int* array, int size_array);
+int choice_rand_manually(int choice);
+void memory(int** array, int size_array);
+int array_size(int size_array);
+void choise_sort(int* array, int size_array, int start_Shell, int end_Shell, int start_bouble, int end_bouble);

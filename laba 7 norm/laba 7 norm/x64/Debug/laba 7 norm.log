@@ -1,0 +1,6 @@
+﻿  fonc.cpp
+C:\Users\Admin\source\repos\laba 7 norm\laba 7 norm\fonc.cpp(122,13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Admin\source\repos\laba 7 norm\laba 7 norm\fonc.cpp(122,13): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Admin\source\repos\laba 7 norm\laba 7 norm\fonc.cpp(122,13): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Admin\source\repos\laba 7 norm\laba 7 norm\fonc.cpp(122,13): message : этот аргумент используется в качестве размера буфера
+  laba 7 norm.vcxproj -> C:\Users\Admin\source\repos\laba 7 norm\x64\Debug\laba 7 norm.exe

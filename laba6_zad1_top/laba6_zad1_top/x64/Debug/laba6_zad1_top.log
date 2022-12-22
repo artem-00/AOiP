@@ -1,0 +1,4 @@
+﻿  function.c
+C:\Users\Admin\source\repos\laba6_zad1_top\laba6_zad1_top\function.c(13,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\laba6_zad1_top\laba6_zad1_top\function.c(151,9): warning C4013: choice: нет определения; предполагается "extern" с возвратом типа "int"
+  laba6_zad1_top.vcxproj -> C:\Users\Admin\source\repos\laba6_zad1_top\x64\Debug\laba6_zad1_top.exe
